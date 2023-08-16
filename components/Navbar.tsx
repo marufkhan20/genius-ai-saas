@@ -7,7 +7,7 @@ const Navbar = () => {
       <MobileSidebar />
 
       <div className="w-full flex justify-end">
-        <UserButton afterSignOutUrl="/" />M
+        <UserButton afterSignOutUrl="/" />
       </div>
     </div>
   );
